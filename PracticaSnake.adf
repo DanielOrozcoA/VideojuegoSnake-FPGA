@@ -1,0 +1,75 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=PracticaSnake
+
+[Library]
+PracticaSnake=.\PracticaSnake.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+FAMILY=<none>
+HESPrepare=0
+fileopenfolder=C:\Users\danni\Desktop\2 Serpientes - Reinicio al mismo tiempo
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+PracticaSnake=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=t_cuadrado|behavior|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/BdT_GC.vhd=-1
+/BdT_VGA.vhd=-1
+/Estados_Botones.vhd=-1
+/Estados_Botones_2.vhd=-1
+/P_Margen.vhd=-1
+/Practica9.vhd=-1
+/VGA_Controller.vhd=-1
+
+[Files.Data]
+.\src\BdT_GC.vhd=VHDL Source Code
+.\src\BdT_VGA.vhd=VHDL Source Code
+.\src\Estados_Botones.vhd=VHDL Source Code
+.\src\Estados_Botones_2.vhd=VHDL Source Code
+.\src\P_Margen.vhd=VHDL Source Code
+.\src\Practica9.vhd=VHDL Source Code
+.\src\VGA_Controller.vhd=VHDL Source Code
+

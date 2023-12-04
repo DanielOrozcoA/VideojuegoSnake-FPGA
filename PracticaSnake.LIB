@@ -1,0 +1,106 @@
+timestamp=1686965000497
+
+[bdt_gc]
+A/simple=21|./src/BdT_GC.vhd|21|1*36490
+BinI32/simple=3*83872
+I=0*651
+I/simple=0*31626
+M=11|0|v98|1686762568452|./src/bdt_gc.vhd|0*230*0x4eeedf8557c52d676696fe27c6584ce65273355a|0*578*0xab32bc1a2daf049573e14469f634e0e6
+M/simple=21|0|v98|1686964999908|./src/BdT_GC.vhd|0*30865*0xb0b2cd6aa4cfbc7616cf95ad2295a2384aa07b4e|0*31543*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/bdt_gc.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/simple=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[bdt_vga]
+A/behavior=21|./src/BdT_VGA.vhd|11|1*39218
+BinI32/behavior=3*85641
+I=0*14978
+I/behavior=0*32176
+M=11|0|v98|1686762568802|./src/bdt_vga.vhd|0*14672*0xa603310ccf1641527c239ca01fa62366a4f87982|0*14903*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1686964999971|./src/BdT_VGA.vhd|0*31867*0x5a08400cb6c9d12897c5c8d72b97cdeeece0be70|0*32089*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/bdt_vga.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[estados_botones]
+A/behavior=21|./src/Estados_Botones.vhd|28|1*40134
+BinI32/behavior=3*86044
+I=0*33306
+I/behavior=0*35252
+M=11|0|v98|1686964865055|./src/Estados_Botones.vhd|0*32713*0xb2ad5d21c2a5ae3383061427e2003a96f278dcd2|0*33215*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1686965000011|./src/Estados_Botones.vhd|0*33549*0x478edbacec09824e49d227e94cd81fa3c08c97ae|0*35149*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Estados_Botones.vhd|7
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[estados_botones_2]
+A/behavior=21|./src/Estados_Botones_2.vhd|28|1*42456
+BinI32/behavior=3*87353
+I=0*36480
+I/behavior=0*38438
+M=11|0|v98|1686964865115|./src/Estados_Botones_2.vhd|0*35875*0x7e66fe67056b831ce55aaf82400f9de505ede0e0|0*36385*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1686965000071|./src/Estados_Botones_2.vhd|0*36725*0x59518868e0defd3371ee9ffc2beac8e4b5f21576|0*38331*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Estados_Botones_2.vhd|7
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[p_margen]
+A/behavior=21|./src/P_Margen.vhd|38|1*44782
+BinI32/behavior=3*88659
+I=0*40326
+I/behavior=0*104373
+M=11|0|v98|1686964865205|./src/P_Margen.vhd|0*39399*0x0004d0b368f8fac868596cacd05862fac7401382|0*40249*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1686965000286|./src/P_Margen.vhd|0*72470*0x9680eac92b7e2e29725412eb0554a466237a7164|0*104284*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/P_Margen.vhd|6
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[practica9]
+A/simple=21|./src/Practica9.vhd|32|1*64777
+I=0*68813
+I/simple=0*70415
+M=11|0|v98|1686964865476|./src/Practica9.vhd|0*68082*0x388b70da8beb97fa6a5cea3e2ac8f148b8396c5f|0*68734*0xab32bc1a2daf049573e14469f634e0e6
+M/simple=21|0|v98|1686965000420|./src/Practica9.vhd|0*69111*0xbeb50d113a9106a7186bbb3761b6d20454455a77|0*70326*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/Practica9.vhd|7
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/simple=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[t_cuadrado]
+BinI32/behavior=3*58482
+I=0*12514
+I/behavior=0*14273
+M=11|0|v98|1686762568752|./src/t_cuadrado.vhd|0*12002*0x897cf25cac6841a8f6ba151698bbd2c293f2c4e6|0*12433*0xab32bc1a2daf049573e14469f634e0e6
+R=./src/t_cuadrado.vhd|7
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[vga_controller]
+A/behavior=21|./src/VGA_Controller.vhd|27|1*70125
+BinI32/behavior=3*96920
+I=0*10114
+I/behavior=0*72291
+M=11|0|v98|1686762568692|./src/vga_controller.vhd|0*9400*0xf19a3a550859e7105ddd89bad7cb7f209b5a450b|0*10025*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1686965000450|./src/VGA_Controller.vhd|0*71069*0x8085cce250b73963c678ace570ff64609b9c4b5d|0*72190*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/vga_controller.vhd|5
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=410
+Version=73
+
+[~MFT]
+0=141|0PracticaSnake.mgf|104373|53652
+1=20|1PracticaSnake.mgf|70125|36490
+3=116|3PracticaSnake.mgf|96920|82350
+
+[~U]
+bdt_gc=BdT_GC 11|0*0|
+bdt_vga=BdT_VGA 11|0*14520|
+estados_botones=Estados_Botones 11|0*32348|
+estados_botones_2=Estados_Botones_2 11|0*35504|
+p_margen=P_Margen 11|0*38692|
+practica9=Practica9 11|0*67576|
+t_cuadrado=T_Cuadrado 11|0*11685|
+vga_controller=VGA_Controller 11|0*8877|
+
